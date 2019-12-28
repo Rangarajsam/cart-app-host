@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7c23624b.chunk.css",
+    "main.js": "/static/js/main.3e4b5134.chunk.js",
+    "main.js.map": "/static/js/main.3e4b5134.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.08934e8f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.08934e8f.js.map",
+    "static/css/2.6d7d54d2.chunk.css": "/static/css/2.6d7d54d2.chunk.css",
+    "static/js/2.73941bfd.chunk.js": "/static/js/2.73941bfd.chunk.js",
+    "static/js/2.73941bfd.chunk.js.map": "/static/js/2.73941bfd.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c72c5ada134d7a71691072f85a0904b5.js": "/precache-manifest.c72c5ada134d7a71691072f85a0904b5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.6d7d54d2.chunk.css.map": "/static/css/2.6d7d54d2.chunk.css.map",
+    "static/css/main.7c23624b.chunk.css.map": "/static/css/main.7c23624b.chunk.css.map",
+    "static/js/2.73941bfd.chunk.js.LICENSE": "/static/js/2.73941bfd.chunk.js.LICENSE",
+    "static/media/loader-icon.svg": "/static/media/loader-icon.7b311951.svg",
+    "static/media/app.scss": "/static/media/roboto-regular-webfont.7b0cc0ca.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08934e8f.js",
+    "static/css/2.6d7d54d2.chunk.css",
+    "static/js/2.73941bfd.chunk.js",
+    "static/css/main.7c23624b.chunk.css",
+    "static/js/main.3e4b5134.chunk.js"
+  ]
+}
